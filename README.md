@@ -8,10 +8,10 @@ This roadmap is designed for individuals with basic JavaScript knowledge who wan
 ### **1. Setup and Basics with Expo**
 - **Goal:** Set up a lightweight environment for React Native development.
 - **Steps:**
-  - Install **Node.js** and **npm**.
+  - Install **[Node.js](https://nodejs.org/en)** and **npm**.
   - Install the **Expo CLI**: `npm install -g expo-cli`
   - Create a new Expo project: `expo init MyFirstApp`
-  - Install **Expo Go** on your Android device for testing.
+  - Install **[Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent)** on your Android device for testing.
 
 - **JavaScript Topics to Know:**
   - Setting up Node.js and npm.
@@ -129,7 +129,7 @@ This roadmap is designed for individuals with basic JavaScript knowledge who wan
 ### **8. React Native Forms with Formik**
    - **JS Prerequisite:** Knowledge of controlled components in forms.
    - **React Native Topics:**
-      - Setting up **Formik** for form handling.
+      - Setting up **[Formik](https://formik.org/)** for form handling.
       - Basic form validation and submission.
 
    - **JavaScript Topics to Know:**
@@ -146,7 +146,7 @@ This roadmap is designed for individuals with basic JavaScript knowledge who wan
 ### **9. Local Data Storage with AsyncStorage**
    - **JS Prerequisite:** Async/await understanding and error handling.
    - **React Native Topics:**
-      - Storing data locally with **AsyncStorage**.
+      - Storing data locally with **[AsyncStorage](https://reactnative.dev/docs/asyncstorage)**.
       - Retrieving and deleting data from AsyncStorage.
 
    - **JavaScript Topics to Know:**
@@ -212,8 +212,8 @@ This roadmap is designed for individuals with basic JavaScript knowledge who wan
 ---
 
 ### **Additional Tips**
-   - Regularly test on **Expo Go** for Android to check app performance and responsiveness.
-   - Utilize **React Native Documentation** for quick reference on components and APIs.
+   - Regularly test on **[Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent)** for Android to check app performance and responsiveness.
+   - Utilize **[React Native Documentation](https://reactnative.dev/docs/getting-started)** for quick reference on components and APIs.
    - Make use of Expo’s resources, like their SDK for extra functionalities such as camera and sensors, without the need for Android Studio.
 
 ---
